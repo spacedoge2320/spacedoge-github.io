@@ -1,2 +1,2 @@
-# spacedoge-gitub.io
+# spacedoge-github.io
 my github blog
